@@ -383,6 +383,10 @@
                 <behavior>Edit</behavior>
                 <field>Mailing_Address_Label__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Preferred_Class_Year_Label__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -416,6 +420,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Date_Of_Birth_Label__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Registrant_Relationship_Label__c</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsLeftToRight</style>
